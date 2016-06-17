@@ -251,7 +251,7 @@ function create_config( )
       "stats",
       "welcome",
       },
-    sudo_users = {10012023_0},
+    sudo_users = {sudo_id},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
