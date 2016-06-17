@@ -244,7 +244,12 @@ function create_config( )
       "ar-supergroup",
       "ar-textphoto",
       "ar-voice",
-      
+      "get",
+      "ingroup",
+      "invite",
+      "owners",
+      "stats",
+      "welcome",
       },
     sudo_users = {10012023_0},
     disabled_channels = {},
