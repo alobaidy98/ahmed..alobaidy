@@ -1,8 +1,8 @@
 ~~This is Simple README 
 
-~~ Source Superflux For Supergroups 
+~~ Source AHMED For Supergroups 
 
-+~~Developer By : @Mustafaflux On Telegram ,
++~~Developer By : @A7mEd_B98 On Telegram ,
 
 To install on C9 your next steps
 
